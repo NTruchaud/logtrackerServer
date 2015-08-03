@@ -1,0 +1,11 @@
+{
+    "name": "logtracker",
+    "version": "0.1.0",
+    "dependencies": {
+    	"socket.io": "~1.2.1",
+    	"adbkit": "*.*.*",
+    	"adbkit-logcat": "*.*.*",
+    	"express": "*.*.*"
+    },
+    "author": "Nils Truchaud"
+}
